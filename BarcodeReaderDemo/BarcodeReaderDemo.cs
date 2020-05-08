@@ -1842,9 +1842,7 @@ namespace Barcode_Reader_Demo
             mEmBarcodeFormat_2 = this.cbRM4SCC.Checked ? (mEmBarcodeFormat_2 | EnumBarcodeFormat_2.BF2_RM4SCC) : mEmBarcodeFormat_2;
             mEmBarcodeFormat_2 = this.cbPostnet.Checked ? (mEmBarcodeFormat_2 | EnumBarcodeFormat_2.BF2_POSTNET) : mEmBarcodeFormat_2;
             mEmBarcodeFormat_2 = this.cbPlanet.Checked ? (mEmBarcodeFormat_2 | EnumBarcodeFormat_2.BF2_PLANET) : mEmBarcodeFormat_2;
-
-
-
+            mEmBarcodeFormat_2 = this.cbDOTCODE.Checked ? (mEmBarcodeFormat_2 | EnumBarcodeFormat_2.BF2_DOTCODE) : mEmBarcodeFormat_2;
         }
 
         private void SetCustomizePanelValuseFromPublicRuntimeSettings()

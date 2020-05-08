@@ -3,7 +3,7 @@ The sample shows how to build a .NET webcam barcode reader using [Dynamsoft Barc
 
 ## Install
 
-- [Dynamsoft Barcode Reader v7.3](https://www.dynamsoft.com/Downloads/Dynamic-Barcode-Reader-Download.aspx)
+- [Dynamsoft Barcode Reader v7.4](https://www.dynamsoft.com/Downloads/Dynamic-Barcode-Reader-Download.aspx)
 - [DirectShowLibV2-1.zip](https://sourceforge.net/projects/directshownet/files/DirectShowNET/v2.1/DirectShowLibV2-1.zip/download)
 
 ## Usage
