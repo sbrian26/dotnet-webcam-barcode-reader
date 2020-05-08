@@ -23,3 +23,6 @@ The sample shows how to build a .NET webcam barcode reader using [Dynamsoft Barc
 ![.NET webcam barcode reader](http://www.codepool.biz/wp-content/uploads/2020/04/dotnet-webcam-barcode-reader3.png)
 
 ![.NET webcam barcode reader](http://www.codepool.biz/wp-content/uploads/2020/04/dotnet-webcam-barcode-reader2.png)
+
+## Blog
+[How to Build .NET Webcam Barcode Scanner with DirectShow](https://www.codepool.biz/dotnet-webcam-barcode-directshow.html)
